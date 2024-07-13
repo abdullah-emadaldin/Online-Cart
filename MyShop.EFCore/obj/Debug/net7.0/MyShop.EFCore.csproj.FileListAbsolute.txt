@@ -1,0 +1,17 @@
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.csproj.AssemblyReference.cache
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.AssemblyInfoInputs.cache
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.AssemblyInfo.cs
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\bin\Debug\net7.0\MyShop.EFCore.deps.json
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\bin\Debug\net7.0\MyShop.EFCore.runtimeconfig.json
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\bin\Debug\net7.0\MyShop.EFCore.dll
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\bin\Debug\net7.0\MyShop.EFCore.pdb
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.csproj.CopyComplete
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.dll
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\refint\MyShop.EFCore.dll
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.pdb
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\MyShop.EFCore.genruntimeconfig.cache
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\obj\Debug\net7.0\ref\MyShop.EFCore.dll
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\bin\Debug\net7.0\MyShop.Model.dll
+C:\Users\tata\source\repos\MyShop\MyShop.EFCore\bin\Debug\net7.0\MyShop.Model.pdb

@@ -1,0 +1,11 @@
+C:\Users\tata\source\repos\MyShop\MyShop.Models\bin\Debug\net7.0\MyShop.ٌRepository.deps.json
+C:\Users\tata\source\repos\MyShop\MyShop.Models\bin\Debug\net7.0\MyShop.ٌRepository.dll
+C:\Users\tata\source\repos\MyShop\MyShop.Models\bin\Debug\net7.0\MyShop.ٌRepository.pdb
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.ٌRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.ٌRepository.AssemblyInfoInputs.cache
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.ٌRepository.AssemblyInfo.cs
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.ٌRepository.csproj.CoreCompileInputs.cache
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.ٌRepository.dll
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\refint\MyShop.ٌRepository.dll
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.ٌRepository.pdb
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\ref\MyShop.ٌRepository.dll

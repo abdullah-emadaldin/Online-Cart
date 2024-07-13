@@ -1,0 +1,12 @@
+C:\Users\tata\source\repos\MyShop\MyShop.Models\bin\Debug\net7.0\MyShop.Model.deps.json
+C:\Users\tata\source\repos\MyShop\MyShop.Models\bin\Debug\net7.0\MyShop.Model.dll
+C:\Users\tata\source\repos\MyShop\MyShop.Models\bin\Debug\net7.0\MyShop.Model.pdb
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.Model.AssemblyInfoInputs.cache
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.Model.AssemblyInfo.cs
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.Model.csproj.CoreCompileInputs.cache
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.Model.dll
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\refint\MyShop.Model.dll
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.Model.pdb
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\ref\MyShop.Model.dll
+C:\Users\tata\source\repos\MyShop\MyShop.Models\obj\Debug\net7.0\MyShop.Model.csproj.AssemblyReference.cache
