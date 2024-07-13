@@ -1,0 +1,35 @@
+﻿@model IEnumerable<UserVM>
+
+
+
+@{
+	ViewBag.PageTitle = "Users Management";
+	ViewBag.CardTitle = "View Users";
+	Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<div>
+	<a href="/Identity/Account/Register" class="btn btn-primary">Create New User</a>
+</div>
+
+
+<br>
+<table id="users" class="table table-hover" width="100%">
+	<thead>
+	<tr>
+		<td>First Name</td>
+		<td>Last Name</td>
+		<td>Email</td>
+		<td>Phone Number</td>
+		<td>Role</td>
+		<td>Lock / Unlock</td>
+		<td>Delete</td>
+	</tr>
+
+	</thead>
+
+</table>
+
+@section Scripts {
+	<script src="~/js/users.js"></script>
+}
